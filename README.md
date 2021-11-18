@@ -1,4 +1,4 @@
-Moneycollect WooCommerce Payment Plug
+Moneycollect WooCommerce Payment Plugin
 =======
 
 1.下载zip插件包
